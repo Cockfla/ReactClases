@@ -11,7 +11,7 @@ function App() {
                     Elías B. Contreras   
                 </p>
                 <p>
-                    mario lira 
+                    Mario Lira 
                 </p>
                 <a
                     className="App-link"
